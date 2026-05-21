@@ -1,3 +1,3 @@
-# GE-21st-IT-Skills
+#GE-IT Skills portfolio
 ## Hello World
 ### Hello World
